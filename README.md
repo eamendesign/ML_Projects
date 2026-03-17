@@ -22,7 +22,14 @@ The topics currently include:
 - K-Means clustering
 - Neural networks fundamentals
 - PyTorch basic usage
-
+- Gaussian Distribution & Gaussian Process (GP)  
+- Kernel functions and covariance modeling  
+- Bayesian Optimization (BO)  
+- Surrogate models & acquisition functions  
+- Real dataset example (CO₂ adsorption)  
+- Genetic Algorithm (GA)  
+- Evolution, selection, crossover, mutation  
+  
 Each module focuses on:
 
 - key **machine learning concepts**
