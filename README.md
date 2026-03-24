@@ -28,7 +28,11 @@ The topics currently include:
 - Surrogate models & acquisition functions  
 - Real dataset example (CO₂ adsorption)  
 - Genetic Algorithm (GA)  
-- Evolution, selection, crossover, mutation  
+- Evolution, selection, crossover, mutation
+- Neural networks fundamentals  
+- Deep neural networks (forward & backpropagation)  
+- CNN basics (convolution, pooling)  
+- Advanced CNN architectures and intuition   
   
 Each module focuses on:
 
