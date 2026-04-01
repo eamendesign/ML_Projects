@@ -12,28 +12,39 @@ This project is designed for **students, beginners, and instructors** who want a
 
 The topics currently include:
 
-- Cost functions and gradient descent
-- Multiple variable linear regression
-- Logistic regression and decision boundaries
-- Overfitting and model generalization
-- Decision trees and information gain
-- Random forests and ensemble learning
-- Support Vector Machines (SVM)
-- K-Means clustering
-- Neural networks fundamentals
-- PyTorch basic usage
-- Gaussian Distribution & Gaussian Process (GP)  
-- Kernel functions and covariance modeling  
-- Bayesian Optimization (BO)  
-- Surrogate models & acquisition functions  
-- Real dataset example (CO₂ adsorption)  
-- Genetic Algorithm (GA)  
-- Evolution, selection, crossover, mutation
+- Cost functions and gradient descent  
+- Multiple variable linear regression  
+- Logistic regression and decision boundaries  
+- Overfitting and model generalization  
+- Decision trees and information gain  
+- Random forests and ensemble learning  
+- Support Vector Machines (SVM)  
+- K-Means clustering  
+
+**Neural Networks:**
 - Neural networks fundamentals  
 - Deep neural networks (forward & backpropagation)  
 - CNN basics (convolution, pooling)  
-- Advanced CNN architectures and intuition   
-  
+- Advanced CNN architectures and intuition  
+- Recurrent Neural Networks (RNN)  
+- Sequence modeling and time-series data  
+- Backpropagation Through Time (BPTT)  
+
+- PyTorch basic usage  
+
+**Probabilistic & Kernel Methods:**
+- Gaussian Distribution & Gaussian Process (GP)  
+- Kernel functions and covariance modeling  
+
+**Optimization & Decision Making:**
+- Bayesian Optimization (BO)  
+- Surrogate models & acquisition functions  
+- Real dataset example (CO₂ adsorption)  
+
+**Evolutionary Algorithms:**
+- Genetic Algorithm (GA)  
+- Evolution, selection, crossover, mutation  
+
 Each module focuses on:
 
 - key **machine learning concepts**
