@@ -12,6 +12,7 @@ This project is designed for **students, beginners, and instructors** who want a
 
 The topics currently include:
 
+**Core Machine Learning Algorithms**
 - Cost functions and gradient descent  
 - Multiple variable linear regression  
 - Logistic regression and decision boundaries  
@@ -21,7 +22,7 @@ The topics currently include:
 - Support Vector Machines (SVM)  
 - K-Means clustering  
 
-**Neural Networks:**
+**Neural Networks & Deep Learning:**
 - Neural networks fundamentals  
 - Deep neural networks (forward & backpropagation)  
 - CNN basics (convolution, pooling)  
@@ -29,6 +30,8 @@ The topics currently include:
 - Recurrent Neural Networks (RNN)  
 - Sequence modeling and time-series data  
 - Backpropagation Through Time (BPTT)  
+- Generative Adversarial Networks (GAN)  
+- Generator vs Discriminator dynamics  
 
 - PyTorch basic usage  
 
